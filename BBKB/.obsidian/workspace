@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "38728355c5303f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "94119827253f12be",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "references/How to take smart notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5c7a9910160235af",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "references/How to take smart notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b72f658c81d808a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "references/How to take smart notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76b4b97d83ae72b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "666bfc8c678605f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28c312cd65e2be84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43f9f0ffd66a0d5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c799eff9ce64e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "9742c9b00d58c373",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "917c0cd5d129cc2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "references/How to take smart notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0de81b41e1216049",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "references/How to take smart notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b72f658c81d808a9",
+  "lastOpenFiles": [
+    "references/How to take smart notes.md",
+    "notes/202105160048 - Image Tragik.md",
+    "notes/202105160042 - File Upload Vulnerabilities.md",
+    "notes/Untitled.md",
+    "notes/202104021522 - Creating a knowledgebase.md",
+    "fleeting/2021-05-16.md",
+    "notes/202105160045 - Path Traversal.md"
+  ]
+}
