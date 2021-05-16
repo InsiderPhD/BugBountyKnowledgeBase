@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "references/How to take smart notes.md",
+            "file": "payloads/XSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -26,7 +26,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "references/How to take smart notes.md",
+            "file": "payloads/XSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "references/How to take smart notes.md",
+            "file": "payloads/XSS.md",
             "mode": "source"
           }
         }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/How to take smart notes.md",
+                "file": "payloads/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/How to take smart notes.md"
+                "file": "payloads/XSS.md"
               }
             }
           }
@@ -132,11 +132,12 @@
   },
   "active": "b72f658c81d808a9",
   "lastOpenFiles": [
-    "references/How to take smart notes.md",
+    "payloads/Untitled.md",
+    "notes/202104021522 - Creating a knowledgebase.md",
     "notes/202105160048 - Image Tragik.md",
+    "references/How to take smart notes.md",
     "notes/202105160042 - File Upload Vulnerabilities.md",
     "notes/Untitled.md",
-    "notes/202104021522 - Creating a knowledgebase.md",
     "fleeting/2021-05-16.md",
     "notes/202105160045 - Path Traversal.md"
   ]
